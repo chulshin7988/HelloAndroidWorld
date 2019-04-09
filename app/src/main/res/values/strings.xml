@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloAndroidWorld</string>
+    <string name="button_Resgister">Register</string>
+    <string name="text_Name">Name</string>
+    <string name="text_Email">Email</string>
+    <string name="text_Password">Password</string>
+    <string name="text_Confirm">Confirm</string>
+</resources>
+<!-- strings are localized-->
